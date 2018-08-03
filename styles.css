@@ -1,5 +1,47 @@
-#bigBoxId {
+#headerId {
+  background-image: url(./assets/header_bg.svg);
+  background-repeat: no-repeat;
+  height: 100px;
+}
+
+#picBoxId {
+  background-image: url(assets/bg.jpg)
+}
+/* #bigBoxId {
   width: 300px;
   height: 300px;
   border: yellowgreen 1px solid;
+} */
+
+.bigDivClass {
+  width: 300px;
+  /* height: 300px; */
+  border: black 1px solid;
+  margin: 10px;
+}
+
+.imageClass {
+  width: 300px;
+  height: 300px;
+}
+
+.navLiId {
+  display: inline-block;
+  margin: 0px 20px 0px 20px;
+}
+
+/* #ulDivId {
+  background-image: url(/assets/instagram_grey.svg)
+} */
+
+.titleDivClass {
+  margin: 10px;
+}
+
+#footerId {
+  height: 50px;
+}
+
+#logoDivId {
+  margin: 0px 0px 0px 145px;
 }
